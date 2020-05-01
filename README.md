@@ -1,4 +1,7 @@
-# RoboConsultorDeVestuario
+# Robo Consultor de Vestuario
+
+Esse robô não foi feito usando REFramework e é um robô criado para estudo.
+
 O robô indica qual é a melhor roupa pra se usar de acordo com o clima e temperatura da cidade indicada pelo usuário.
 Esse é um processo de automação criado usando o software UiPath. Esse projeto utiliza sequences para obter a cidade indicada pelo usuário,
 fazer a busca do clima e temperatura no google e obter essas informações. 
